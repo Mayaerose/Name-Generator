@@ -50,6 +50,8 @@ This app needs a Node server
 - How to use `fetch` with `.then()`
 - How to use `npm install` to add packages like figlet
 
+VIEW APP HERE: https://name-generator-r9xa.onrender.com/
+
 ## Author
 
 Maya Rose — [GitHub](https://github.com/Mayaerose) 🌹
